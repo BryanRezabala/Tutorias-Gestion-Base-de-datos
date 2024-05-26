@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabajo-autonomo", "Trabajo-autonomo\Trabajo-autonomo.csproj", "{2F1F6C94-20C6-4C63-B268-BE2F1F746B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1F6C94-20C6-4C63-B268-BE2F1F746B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1F6C94-20C6-4C63-B268-BE2F1F746B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1F6C94-20C6-4C63-B268-BE2F1F746B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1F6C94-20C6-4C63-B268-BE2F1F746B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2948C0-7A43-4775-9575-00ECC3A3C779}
+	EndGlobalSection
+EndGlobal
